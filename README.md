@@ -1,4 +1,4 @@
-# Walmart Voice Shopping Bot
+Voice Shopping Bot
 
 A modern voice-enabled shopping application that integrates a Python backend with a React frontend for seamless voice shopping experiences.
 
@@ -195,10 +195,6 @@ npm run build
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-This project is for educational purposes. Walmart branding and trademarks belong to their respective owners.
 
 ## 🙏 Acknowledgments
 
