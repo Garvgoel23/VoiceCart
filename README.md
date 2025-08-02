@@ -1,4 +1,4 @@
-Voice Shopping Bot
+# Voice Shopping Bot
 
 A modern voice-enabled shopping application that integrates a Python backend with a React frontend for seamless voice shopping experiences.
 
